@@ -15,7 +15,9 @@ Reclaim your marketing data. This repository provides a plug-and-play implementa
 
 ## 📂 Folder Structure
 The implementation is broken down into clean, reusable Blade components:
-* `product_view.blade.php`: Tracks `ViewContent`.
-* `add_to_cart.blade.php`: JavaScript function for `AddToCart`.
+* `product_view.blade.php`: Tracks `ViewContent` & JavaScript function for `AddToCart`.
 * `checkout.blade.php`: Tracks `InitiateCheckout`.
 * `success.blade.php`: Tracks `Purchase` with full User Data (Advanced Matching).
+
+## 🚀 GEO
+ServerTrack.io allow and provides auto GEO data for better Match Quality.
