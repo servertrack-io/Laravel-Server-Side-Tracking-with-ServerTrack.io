@@ -9,9 +9,9 @@ Reclaim your marketing data. This repository provides a plug-and-play implementa
 
 ## 🛠 Installation
 
-1. **Get your Pixel ID:** Sign up at [ServerTrack.io](https://servertrack.io) and copy your unique Tracking ID.
-2. **Add to your Header:** Include the initialization script in your main layout file (`app.blade.php`).
-3. **Deploy Events:** Use the provided Blade templates to track user behavior.
+1. **Get your Pixel ID and Access Token:** Sign up at [ServerTrack.io](https://servertrack.io) and copy your unique Tracking ID.
+2. **Add to your Header:** Include the initialization SDK script in your main layout file (`app.blade.php`).
+3. **Deploy Events:** Use the sample Blade templates to track user behavior.
 
 ## 📂 Folder Structure
 The implementation is broken down into clean, reusable Blade components:
