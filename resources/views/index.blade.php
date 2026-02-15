@@ -10,7 +10,7 @@
         <div class="hidden md:flex gap-8 text-sm font-semibold text-slate-600">
             <a href="https://servertrack.io/" class="hover:text-darkGreen transition-colors" target="_blank">Visit Website</a>
             <a href="https://servertrack.io/documentation" class="hover:text-darkGreen transition-colors">Documentation</a>
-            <a href="https://github.com/servertrack-io/Laravel-Server-Side-Tracking-with-ServerTrack.io" class="text-darkGreen border-b-2 border-green-600">GitHub Repo</a>
+            <a href="https://github.com/ServerTrack-Official" class="text-darkGreen border-b-2 border-green-600">GitHub</a>
         </div>
     </nav>
 
@@ -63,4 +63,5 @@
         <p class="text-slate-400 text-sm">Built for <a href="https://servertrack.io" class="text-green-900 hover:underline">ServerTrack.io</a> Laravel Community</p>
     </footer>
 </div>
+
 @endsection
