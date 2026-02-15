@@ -9,15 +9,19 @@ Reclaim your marketing data. This repository provides a plug-and-play implementa
 
 ## 🛠 Installation
 
-1. **Get your Pixel ID and Access Token:** Sign up at [ServerTrack.io](https://servertrack.io) and copy your unique Tracking ID.
+1. **Get your Pixel ID and Access Token:** Sign up at [ServerTrack.io](https://servertrack.io) and setup the configuration.
 2. **Add to your Header:** Include the initialization SDK script in your main layout file (`app.blade.php`).
 3. **Deploy Events:** Use the sample Blade templates to track user behavior.
 
 ## 📂 Folder Structure
 The implementation is broken down into clean, reusable Blade components:
+* `index.blade.php`: for example of `PageView` - Auto Triggers (No need to do anything).
 * `product_view.blade.php`: Tracks `ViewContent` & JavaScript function for `AddToCart`.
 * `checkout.blade.php`: Tracks `InitiateCheckout`.
 * `success.blade.php`: Tracks `Purchase` with full User Data (Advanced Matching).
 
 ## 🚀 GEO
 ServerTrack.io allow and provides auto GEO data for better Match Quality.
+
+## Support & Help
+If you need any help or assistant you can find common solution from our knowladgebase or create a Ticket. Visit : [Support](https://servertrack.io/support)
